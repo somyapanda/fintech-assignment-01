@@ -1,5 +1,5 @@
 # How Coinbase is helping to create an open financial system - A Case Study
-![Coinbase](https://assets.coinbase.com/assets/coinbase.d491999a12d7c093ec6cd83ad64a1e23.png)
+![Coinbase](images/coinbase.png)
 
 ## Overview and Origin
 
