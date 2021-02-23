@@ -26,10 +26,10 @@ cryptocurrency asset exchange in the United States. It offers a range of product
 where people can buy and sell popular digital currencies and keep track of those in one place as a portfolio. 
 
 The founders of the company had realized the potential of cryptocurrencies such as bitcoin but they had also realized a big problem. No matter how attractive the
-technologies that made bitcoin looked, there were no easy way to deal with bitcoin and for non technical people the bewilderingly difficult. In addition, the
-market was full of criminals and money launderers. The founder, Brian Armstrong, wanted to solve this problem by building a secure and easy to use platform for
-everybody. Coinbase has received several funding from numerous venture capitals and financial corporations such as Y Combinator, Union Square Ventures, SV Angel,
-Battery Ventures, Greylock Partners, Andreessen Horowitz, Spark Capital, Draper Associates and many others. So far, Coinbase have received a total funding of $547.3 million.
+technologies that made bitcoin looked, there were no easy way to use and exchange with bitcoin. And for non technical people it was bewilderingly difficult. In
+addition, the market was full of criminals and money launderers. The founder, Brian Armstrong, wanted to solve this problem by building a secure and easy-to-use
+platform for everybody. Coinbase has received several funding from numerous venture capitals and financial corporations such as Y Combinator, Union Square
+Ventures, SV Angel, Battery Ventures, Greylock Partners, Andreessen Horowitz, Spark Capital, Draper Associates and many others. So far, Coinbase have received a total funding of $547.3 million.
 
 ## Business Activities
 Coinbase’s mission is to create an open financial system that is not controlled by any one country or company.  It started as a digital exchange platform where
